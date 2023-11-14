@@ -1,4 +1,7 @@
-# :wave: :wave: :wave: The Basics of GitHub  !!!!!!!!!!!! :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: 
+# :wave: :wave: :wave: The Basics of GitHub  !!!!!!!!!!!! :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: 
+=======
+# :wave: :wave: :wave: The Basics of GitHub  !!!!!!!!!!!! :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: 
+>>>>>>> 2aee943ba0f8ccbbadba7adfabe59a8c3e6d6ee9
 
 ## 🤓 Course overview and learning outcomes 
 
