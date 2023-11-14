@@ -1,4 +1,4 @@
-# :wave: :wave: :wave: The Basics of GitHub  !!!!!!!!!!!! :wave: :wave: :wave:
+# :wave: :wave: :wave: The Basics of GitHub  !!!!!!!!!!!! :wave: :wave: :wave: :sad: :sad:
 
 ## 🤓 Course overview and learning outcomes 
 
